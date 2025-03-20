@@ -2,6 +2,14 @@
 
 System monitorowania stron internetowych stworzony w Laravel. Aplikacja umożliwia śledzenie dostępności wielu stron, mierzy czas odpowiedzi i zapisuje historię sprawdzeń. Wykorzystuje PHP 8.2, MySQL i Bootstrap. Pozwala na automatyczne sprawdzanie w określonych interwałach oraz kategoryzację monitorowanych stron.
 
+## Zrzuty ekranu
+
+### Lista monitorowanych stron
+![Lista stron](screenshots/lista.png)
+
+### Szczegóły monitorowania
+![Szczegóły](screenshots/szczegoly.png)
+
 ## Funkcje
 - Monitorowanie wielu stron jednocześnie
 - Automatyczne sprawdzanie dostępności
